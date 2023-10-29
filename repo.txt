@@ -1,3 +1,4 @@
 victus
 hp
 intel
+core i5
